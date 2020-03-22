@@ -1,1 +1,1 @@
-With more scans we can use LIME to learn doctors how to diagnose diagnose
+With more scans we can use LIME to teach doctors how to diagnose diagnose
